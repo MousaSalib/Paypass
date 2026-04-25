@@ -39,7 +39,7 @@ The API is fully documented to ensure seamless integration with frontend applica
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/car-wash-backend.git
+git clone https://github.com/MousaSalib/Paypass.git
 Install dependencies:
 
 Bash
